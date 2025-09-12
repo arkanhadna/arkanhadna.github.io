@@ -28,9 +28,13 @@ permalink: /
 * Performed data entry and data management, improving record organization and retrieval time.
 * Compiled a report on workforce distribution, highlighting that the number of staff appeared limited compared to the region’s coverage needs.
 
+<br>
+
 # Certification
 * Data Analysis Fundamentals - GLOBIS University | 2025
 * Fundamental Leadership Program - Dale Carnegie Training | 2022
+
+<br>
 
 # Education
 ### Bachelor of Computational Science
