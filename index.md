@@ -2,22 +2,13 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+  Data analyst with 5+ years of experience in data analytics, ETL, and reporting. Skilled in automating reports, optimizing data pipelines, and collaborating with cross-functional teams. Passionate about turning data into actionable insights to drive business decisions.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # Arkan Hadna
 
-
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
-
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  Data analyst with 5+ years of experience in **data analytics, ETL, and reporting**. Skilled in automating reports, optimizing data pipelines, and collaborating with cross-functional teams. Passionate about turning data into actionable insights to drive business decisions. **#Python #AppsScript #Sheets #Looker #Excel**
+  
 footer: true
 permalink: /
 ---
