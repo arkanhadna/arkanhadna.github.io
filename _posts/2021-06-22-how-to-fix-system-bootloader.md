@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Fix System BootLoader not found. Initializing defaults.
-image: "[https://miro.medium.com/v2/resize:fit:828/format:webp/1*F6M8t3WFYgROk0dr-np06w.png]"
+image: "https://miro.medium.com/v2/resize:fit:828/format:webp/1*F6M8t3WFYgROk0dr-np06w.png"
 category: Linux
 author: Me
 ---
