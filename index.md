@@ -32,12 +32,35 @@ permalink: /
 
 <br>
 
+---
+
 # Certification
-* Data Analysis Fundamentals - GLOBIS University (2025)
-* Fundamental Leadership Program - Dale Carnegie Training (2022)
+* [Data Analysis Fundamentals](https://drive.google.com/file/d/1ZDYTKNJbbG3eDXYf_lTGtb1RuEZRhlzp/view?usp=sharing) - GLOBIS University (2025)
+* [Statistics for Business Analytics: Data Analysis with Excel](https://drive.google.com/file/d/1p7kkd-26Is_KWSQkA58VivODIpbxPiGJ/view?usp=sharing) - Udemy (2023)
+* [Fundamental Leadership Program](https://drive.google.com/file/d/12igLW87-I8jnQiSBgDcYNEDZcK1oTQmu/view?usp=sharing) - Dale Carnegie Training (2022)
 
 <br>
 
+---
+
 # Education
 ### Bachelor of Computational Science
-Telkom University, Bandung | 2014 - 2018 | GPA 3.72
+#### Telkom University, Bandung | 2014 - 2018 | GPA 3.72
+##### Activities and societies: Nihon No Matsuri, UKM Aikido, UKM Band
+
+Nihon No Matsuri (2014-2017) :
+- Designing all the materials, publications, and documentation of the festivals. 
+- Appointed as the Executive Officer to lead the Design and Publication division in the last year, managing all the design requirements across divisions and delegating them to 14 members of the Design and Publication division.
+
+UKM Aikido (2014-2017) :
+- Active in training and joined events across campuses.
+- Appointed as the Head of UKM Aikido in the last year.
+
+UKM Band (2014-2016) :
+- Responsible for managing the rental equipment business for the UKM.
+- Doing the regular equipment maintenance.
+- Active as a committee in the events held by the organization.
+
+<br>
+
+---
