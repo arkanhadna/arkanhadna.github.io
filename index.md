@@ -50,7 +50,7 @@ permalink: /
 
 Nihon No Matsuri (2014-2017) :
 - Designing all the materials, publications, and documentation of the festivals. 
-- Appointed as the Executive Officer to lead the Design and Publication division in the last year, managing all the design requirements across divisions and delegating them to 14 members of the Design and Publication division.
+- Appointed as the [Executive Officer](https://drive.google.com/file/d/14pzYRCIMRmUopTQp2B5rZYj7Dma07aMC/view?usp=sharing) to lead the Design and Publication division in the last year, managing all the design requirements across divisions and delegating them to 14 members of the Design and Publication division.
 
 UKM Aikido (2014-2017) :
 - Active in training and joined events across campuses.
